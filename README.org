@@ -1,0 +1,5 @@
+#+BEGIN_SRC shell
+# to install
+  git clone https://github.com/fhdhsni/emacs-autokey.git ~/.config/autokey/data/emacs-autokey
+  rm ~/.config/autokey/data/emacs-autokey/README.org
+#+END_SRC
